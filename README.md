@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Jonatan Tomás </h2>
 
-<img align='right' src="./Assets/profile.png" width="230">
+<img align='right' src="./Imagen/image.jpg" width="230">
 
 <p><em>Ingeniería Informática  <a href="https://www.uji.es/">Universitat Jaume I</a>
 </br>Software Engineer in <a href="https://www.robottions.com/">Robottions</a>
