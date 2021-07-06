@@ -11,7 +11,7 @@
 [![GitHub rhackonJTC](https://img.shields.io/github/followers/rhackonJTC?label=follow&style=social)](https://github.com/rhackonJTC)
 
 
-### <img src="https://media.giphy.com/media/5yrhhGJB0t68jhzMXy/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/4VPQEg7vlKbbPvRwBd/giphy.gif" width="50"> A little more about me...  
 
 ```Python
 {
