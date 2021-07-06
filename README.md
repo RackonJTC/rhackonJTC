@@ -8,7 +8,7 @@
 
 
 [![Linkedin:Jonatan Tomas Caro](https://img.shields.io/badge/-Jonatan_Tomás-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatan-tomas-caro-7004b7129)](https://www.linkedin.com/in/jonatan-tomas-caro-7004b7129/)
-[![GitHub rhackonJTC](https://img.shields.io/github/followers/JoseCarTorBel?label=follow&style=social)](https://github.com/rhackonJTC)
+[![GitHub rhackonJTC](https://img.shields.io/github/followers/rhackonJTC?label=follow&style=social)](https://github.com/rhackonJTC)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
