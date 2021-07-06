@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there, I'm Jonatan Tomás 
 
-<!--
-**rhackonJTC/rhackonJTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Ingeniería Informática Universitat Jaume I
+Software Engineer in Robottions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedin:Jonatan Tomas Caro GitHub rhackonJTC
+
+ A little more about me...
+{
+  "Code": {C#, Java, Python, C},
+  "Tools": {Windows WPF, VisualStudio, SQL Server, Android},
+  "Microcontrollers": {Arduino, ESP32},
+  "Projects": {
+                  tittle: "Software  para un robot paletizador",
+                  description: "Desarrollo de un software con interfaz de usuario y visualizador de llenado de pallet para un robot paletizador"
+              }
+}
