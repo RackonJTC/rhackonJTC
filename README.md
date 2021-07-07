@@ -15,7 +15,7 @@
 
 ```Python
 {
-  "Code": {C#, Java, Python, C},
+  "Code": {C#, Java, Python, C, HTML},
   "Tools": {Windows WPF, VisualStudio, SQL Server, Android},
   "Microcontrollers": {Arduino, ESP32},
   "Projects": {
